@@ -264,17 +264,6 @@
         "twitch":"dotproto"
     },
     {
-        "name":"Sebastian Krzyżanowski",
-        "tags":[
-            "JavaScript",
-            "React",
-            "Redux",
-            "Firebase",
-            "Node.js"
-        ],
-        "twitch":"vfujin"
-    },
-    {
         "name":"Ian Lovett",
         "tags":[
             "JavaScript",
@@ -284,15 +273,6 @@
             "Redux"
         ],
         "twitch":"ilovett"
-    },
-    {
-        "name":"Rúben Gomes",
-        "tags":[
-            "Node.js",
-            "JavaScript",
-            "Vue.js"
-        ],
-        "twitch":"rgomex"
     },
     {
         "name":"Avaer Kazmer",
@@ -366,15 +346,6 @@
             "Node.js"
         ],
         "twitch":"rockzombie2"
-    },
-    {
-        "name":"Scope Web LLC",
-        "tags":[
-            "Node.js",
-            "Laravel",
-            "JavaScript"
-        ],
-        "twitch":"ScopeWebLLC"
     },
     {
         "name":"Stephan Moerman",
