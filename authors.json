@@ -70,5 +70,13 @@
     "logo": "https://s3.amazonaws.com/cms-assets.tutsplus.com/uploads/users/16/profiles/18733/profileImage/smashing400.jpg",
     "about": "Smashing Magazine — For Web Designers And Developers",
     "feed_url": "https://www.smashingmagazine.com/feed"
+  },
+  {
+    "name": "CSS-LIVE",
+    "site_url": "http://css-live.ru",
+    "language": "ru",
+    "logo": "https://scontent.fdnk1-1.fna.fbcdn.net/v/t1.0-1/26734471_1601343083248245_4811835090202412605_n.png?_nc_cat=110&_nc_ht=scontent.fdnk1-1.fna&oh=f6b4d16c46a384868e70210ec484d2df&oe=5C3DDF44",
+    "about": "Жизнь во фронтенде",
+    "feed_url": "http://feeds.feedburner.com/css-live?fmt=xml"
   }
 ]
