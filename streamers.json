@@ -429,5 +429,31 @@
             "JavaScript"
         ],
         "twitch":"kdex___"
+    },
+    {
+        "name":"Jhovgaard",
+        "tags":[
+            "Node.js",
+            "JavaScript"
+        ],
+        "twitch":"jhovgaard"
+    },
+    {
+        "name":"Cristianwd",
+        "tags":[
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "twitch":"cristianwd"
+    },
+    {
+        "name":"Genso",
+        "tags":[
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "twitch":"genso_0"
     }
 ]
