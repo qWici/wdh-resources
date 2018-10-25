@@ -8,7 +8,7 @@
     "feed_url": "https://alistapart.com/main/feed"
   },
   {
-    "name": "Speckyboy Web Design Magazine",
+    "name": "Speckyboy Magazine",
     "site_url": "https://speckyboy.com",
     "language": "en",
     "logo": "https://speckyboy.com/wp-content/themes/speckyboy-3.8/images/logo.png",
@@ -32,7 +32,7 @@
     "feed_url": "http://scotch.io/feed"
   },
   {
-    "name": "Medium/Javascript",
+    "name": "Javascript",
     "site_url": "https://medium.com/topic/javascript",
     "language": "en",
     "logo": "https://cdn-images-1.medium.com/proxy/1*TGH72Nnw24QL3iV9IOm4VA.png",
@@ -40,7 +40,7 @@
     "feed_url": "https://medium.com/feed/topic/javascript"
   },
   {
-    "name": "Medium/Vue.js Developers",
+    "name": "Vue.js Developers",
     "site_url": "https://medium.com/js-dojo",
     "language": "en",
     "logo": "https://scontent.fdnk1-1.fna.fbcdn.net/v/t1.0-1/p200x200/25994668_1776012516038227_2315333220099996969_n.png?_nc_cat=104&_nc_ht=scontent.fdnk1-1.fna&oh=1a5d14231a527ecb8e27e784b4e390fb&oe=5C446EC5",
@@ -80,7 +80,7 @@
     "feed_url": "https://medium.com/feed/dailyjs"
   },
   {
-    "name": "Хабр/Разработка веб-сайтов",
+    "name": "Разработка веб-сайтов",
     "site_url": "https://habr.com/hub/webdev/all",
     "language": "ru",
     "logo": "https://scontent.fdnk1-1.fna.fbcdn.net/v/t1.0-9/36063215_2477562498935940_1069307446360539136_n.png?_nc_cat=104&_nc_ht=scontent.fdnk1-1.fna&oh=58ebe4fc67fb868bcef8fd066bb55b0a&oe=5C40416A",
