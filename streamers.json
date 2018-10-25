@@ -455,5 +455,23 @@
             "JavaScript"
         ],
         "twitch":"genso_0"
+    },
+    {
+        "name":"Sygeman",
+        "tags":[
+            "HTML",
+            "Typescript",
+            "JavaScript"
+        ],
+        "twitch":"sygeman"
+    },
+    {
+        "name":"Mibazarow",
+        "tags":[
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "twitch":"mibazarow"
     }
 ]
