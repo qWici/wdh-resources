@@ -40,20 +40,44 @@
     "feed_url": "https://medium.com/feed/topic/javascript"
   },
   {
-    "name": "Medium/Frontend and beyond",
-    "site_url": "https://medium.com/frontend-and-beyond",
+    "name": "Medium/Vue.js Developers",
+    "site_url": "https://medium.com/js-dojo",
     "language": "en",
-    "logo": "https://cdn-images-1.medium.com/fit/c/150/150/0*HsJ-1M0B21iLI57h.jpeg",
-    "about": "Web development done right",
-    "feed_url": "https://medium.com/feed/frontend-and-beyond"
+    "logo": "https://scontent.fdnk1-1.fna.fbcdn.net/v/t1.0-1/p200x200/25994668_1776012516038227_2315333220099996969_n.png?_nc_cat=104&_nc_ht=scontent.fdnk1-1.fna&oh=1a5d14231a527ecb8e27e784b4e390fb&oe=5C446EC5",
+    "about": "Vue.js Developers' mission is to up your skill and knowledge of Vue.js and related tools, beyond what's in the official documentation",
+    "feed_url": "https://medium.com/feed/js-dojo"
   },
   {
-    "name": "Medium/Front-end Development",
-    "site_url": "https://medium.com/front-end-development",
+    "name": "Bits and Piecest",
+    "site_url": "https://blog.bitsrc.io",
     "language": "en",
-    "logo": "https://cdn-images-1.medium.com/fit/c/150/150/0*z9yqp3T260NPSwE2.jpeg",
-    "about": "Anything related to building things using HTML, CSS and JavaScript",
-    "feed_url": "https://medium.com/feed/front-end-development"
+    "logo": "https://pbs.twimg.com/profile_images/953314804378222592/QP1hRAU5_400x400.jpg",
+    "about": "Coding In The Age Of Code Components",
+    "feed_url": "https://blog.bitsrc.io/feed"
+  },
+  {
+    "name": "FreeCodeCamp",
+    "site_url": "https://medium.freecodecamp.org",
+    "language": "en",
+    "logo": "https://pbs.twimg.com/profile_images/692531829287567360/ytP7U362_400x400.png",
+    "about": "Stories worth reading about programming and technology from our open source community",
+    "feed_url": "https://medium.freecodecamp.org/feed"
+  },
+  {
+    "name": "Jordan Scales",
+    "site_url": "https://medium.com/@jdan",
+    "language": "en",
+    "logo": "https://miro.medium.com/fit/c/240/240/0*JyLij9xG1bZLtJIK.jpeg",
+    "about": "JavaScript clickbait enthusiast. Giving you superpowers @Stripe. Door-to-door accessibility salesman",
+    "feed_url": "https://medium.com/feed/@jdan"
+  },
+  {
+    "name": "Jordan Scales",
+    "site_url": "https://medium.com/dailyjs",
+    "language": "en",
+    "logo": "https://pbs.twimg.com/profile_images/988505844915556354/lgUSY3mZ_400x400.jpg",
+    "about": "JavaScript news and opinion.",
+    "feed_url": "https://medium.com/feed/dailyjs"
   },
   {
     "name": "Хабр/Разработка веб-сайтов",
