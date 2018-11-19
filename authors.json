@@ -32,7 +32,7 @@
     "feed_url": "http://scotch.io/feed"
   },
   {
-    "name": "Javascript",
+    "name": "Javascript[Medium]",
     "site_url": "https://medium.com/topic/javascript",
     "language": "en",
     "logo": "https://cdn-images-1.medium.com/proxy/1*TGH72Nnw24QL3iV9IOm4VA.png",
@@ -40,7 +40,7 @@
     "feed_url": "https://medium.com/feed/topic/javascript"
   },
   {
-    "name": "Vue.js Developers",
+    "name": "Vue.js Developers[Medium]",
     "site_url": "https://medium.com/js-dojo",
     "language": "en",
     "logo": "https://scontent.fdnk1-1.fna.fbcdn.net/v/t1.0-1/p200x200/25994668_1776012516038227_2315333220099996969_n.png?_nc_cat=104&_nc_ht=scontent.fdnk1-1.fna&oh=1a5d14231a527ecb8e27e784b4e390fb&oe=5C446EC5",
@@ -56,7 +56,7 @@
     "feed_url": "https://blog.bitsrc.io/feed"
   },
   {
-    "name": "FreeCodeCamp",
+    "name": "FreeCodeCamp[Medium]",
     "site_url": "https://medium.freecodecamp.org",
     "language": "en",
     "logo": "https://pbs.twimg.com/profile_images/692531829287567360/ytP7U362_400x400.png",
@@ -64,7 +64,7 @@
     "feed_url": "https://medium.freecodecamp.org/feed"
   },
   {
-    "name": "Jordan Scales",
+    "name": "Jordan Scales[Medium]",
     "site_url": "https://medium.com/@jdan",
     "language": "en",
     "logo": "https://miro.medium.com/fit/c/240/240/0*JyLij9xG1bZLtJIK.jpeg",
@@ -72,7 +72,7 @@
     "feed_url": "https://medium.com/feed/@jdan"
   },
   {
-    "name": "Jordan Scales",
+    "name": "DailyJS[Medium]",
     "site_url": "https://medium.com/dailyjs",
     "language": "en",
     "logo": "https://pbs.twimg.com/profile_images/988505844915556354/lgUSY3mZ_400x400.jpg",
@@ -80,7 +80,7 @@
     "feed_url": "https://medium.com/feed/dailyjs"
   },
   {
-    "name": "Разработка веб-сайтов",
+    "name": "Разработка веб-сайтов[Хабрахабр]",
     "site_url": "https://habr.com/hub/webdev/all",
     "language": "ru",
     "logo": "https://scontent.fdnk1-1.fna.fbcdn.net/v/t1.0-9/36063215_2477562498935940_1069307446360539136_n.png?_nc_cat=104&_nc_ht=scontent.fdnk1-1.fna&oh=58ebe4fc67fb868bcef8fd066bb55b0a&oe=5C40416A",
