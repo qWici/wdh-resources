@@ -242,7 +242,7 @@
         "tags":[
             "PHP",
             "Symfony",
-            "Javascript",
+            "JavaScript",
             "Python"
         ],
         "twitch":"bt0r"
@@ -473,5 +473,15 @@
             "JavaScript"
         ],
         "twitch":"mibazarow"
+    },
+        {
+        "name":"heck3rman",
+        "tags":[
+            "Golang",
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "twitch":"heck3rman"
     }
 ]
