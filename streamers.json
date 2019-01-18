@@ -474,8 +474,8 @@
         ],
         "twitch":"mibazarow"
     },
-        {
-        "name":"heck3rman",
+    {
+        "name":"Heck3rman",
         "tags":[
             "Golang",
             "HTML",
@@ -483,5 +483,23 @@
             "JavaScript"
         ],
         "twitch":"heck3rman"
+    },
+    {
+        "name":"Rolands",
+        "tags":[
+            "Laravel",
+            "Vue.js",
+            "JavaScript"
+        ],
+        "twitch":"rolands"
+    },
+    {
+        "name":"Jeff",
+        "tags":[
+            ".NET",
+            "Vue.js",
+            "JavaScript"
+        ],
+        "twitch":"csharpfritz"
     }
 ]
