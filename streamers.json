@@ -501,5 +501,13 @@
             "JavaScript"
         ],
         "twitch":"csharpfritz"
+    },
+    {
+        "name":"Kasper",
+        "tags":[
+            "Typescript",
+            "JavaScript"
+        ],
+        "twitch":"codenjoy"
     }
 ]
