@@ -509,5 +509,24 @@
             "JavaScript"
         ],
         "twitch":"codenjoy"
+    },
+    {
+        "name":"jamiepinelive",
+        "tags":[
+            "JavaScript",
+            "Vue.js",
+            "Electron",
+            "Node.js"
+        ],
+        "twitch":"jamiepinelive"
+    },
+    {
+        "name":"Justin",
+        "tags":[
+            "Python",
+            "Vue.js",
+            "Django"
+        ],
+        "twitch":"justinmusti"
     }
 ]
