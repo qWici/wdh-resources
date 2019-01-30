@@ -54,5 +54,61 @@
     "language": "ru",
     "image_url": "http://i1.sndcdn.com/avatars-000306039922-7i4ln1-original.jpg",
     "feed_url": "https://feeds.soundcloud.com/users/soundcloud:users:299701886/sounds.rss"
+  },
+  {
+    "title": "JavaScript Jabber",
+    "description": "A weekly podcast discussing the superb language JavaScript",
+    "site_url": "https://devchat.tv/js-jabber",
+    "language": "en",
+    "image_url": "https://devchat.tv/wp-content/uploads/2016/04/javascript_jabber_thumb.jpg",
+    "feed_url": "https://feeds.feedwrench.com/JavaScriptJabber.rss"
+  },
+  {
+    "title": "ScriptCast",
+    "description": "A podcast about JavaScript, stories from people who shape the world of JavaScript, hosted by the creators and organisers of ScriptConf",
+    "site_url": "https://scriptconf.org",
+    "language": "en",
+    "image_url": "https://i1.sndcdn.com/avatars-000317158627-yhans7-t200x200.jpg",
+    "feed_url": "http://feeds.soundcloud.com/users/soundcloud:users:306408165/sounds.rss"
+  },
+  {
+    "title": "JavaScript Air",
+    "description": "The live broadcast podcast all about JavaScript. The episodes run over Hangouts on Air live and get uploaded to YouTube and an audio podcast afterward. Topics include all things around JavaScript and Web Development",
+    "site_url": "https://javascriptair.com",
+    "language": "en",
+    "image_url": "https://pbcdn1.podbean.com/imglogo/image-logo/862611/2048.png",
+    "feed_url": "https://feed.podbean.com/audio.javascriptair.com/feed.xml"
+  },
+  {
+    "title": "Adventures in Angular",
+    "description": "Adventures in Angular is a weekly podcast discussion about Angular, its community, and web development",
+    "site_url": "https://devchat.tv/adv-in-angular",
+    "language": "en",
+    "image_url": "https://devchat.tv/wp-content/uploads/2016/04/angular-thumb-1400x1400.jpg",
+    "feed_url": "http://feeds.feedwrench.com/AdventuresInAngular.rss"
+  },
+  {
+    "title": "AngularAir",
+    "description": "All about Angular",
+    "site_url": "https://angularair.com",
+    "language": "en",
+    "image_url": "https://pbcdn1.podbean.com/imglogo/image-logo/716841/ngAirLogoWhite.png",
+    "feed_url": "https://feed.podbean.com/angularair/feed.xml"
+  },
+  {
+    "title": "The React podcast",
+    "description": "Interviews and news about React hosted by Michael Jackson",
+    "site_url": "https://reactpodcast.simplecast.fm",
+    "language": "en",
+    "image_url": "https://media.simplecast.com/podcast/image/6265/1534231292-artwork.jpg",
+    "feed_url": "https://rss.simplecast.com/podcasts/6265/rss"
+  },
+  {
+    "title": "The React podcast",
+    "description": "Interviews and news about React hosted by Michael Jackson",
+    "site_url": "https://reactpodcast.simplecast.fm",
+    "language": "en",
+    "image_url": "https://media.simplecast.com/podcast/image/6265/1534231292-artwork.jpg",
+    "feed_url": "https://rss.simplecast.com/podcasts/6265/rss"
   }
 ]
