@@ -102,13 +102,5 @@
     "language": "en",
     "image_url": "https://media.simplecast.com/podcast/image/6265/1534231292-artwork.jpg",
     "feed_url": "https://rss.simplecast.com/podcasts/6265/rss"
-  },
-  {
-    "title": "The React podcast",
-    "description": "Interviews and news about React hosted by Michael Jackson",
-    "site_url": "https://reactpodcast.simplecast.fm",
-    "language": "en",
-    "image_url": "https://media.simplecast.com/podcast/image/6265/1534231292-artwork.jpg",
-    "feed_url": "https://rss.simplecast.com/podcasts/6265/rss"
   }
 ]
