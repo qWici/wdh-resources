@@ -80,14 +80,6 @@
     "feed_url": "https://feed.podbean.com/audio.javascriptair.com/feed.xml"
   },
   {
-    "title": "Adventures in Angular",
-    "description": "Adventures in Angular is a weekly podcast discussion about Angular, its community, and web development",
-    "site_url": "https://devchat.tv/adv-in-angular",
-    "language": "en",
-    "image_url": "https://devchat.tv/wp-content/uploads/2016/04/angular-thumb-1400x1400.jpg",
-    "feed_url": "http://feeds.feedwrench.com/AdventuresInAngular.rss"
-  },
-  {
     "title": "AngularAir",
     "description": "All about Angular",
     "site_url": "https://angularair.com",
