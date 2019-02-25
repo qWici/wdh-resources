@@ -528,5 +528,12 @@
             "Django"
         ],
         "twitch":"justinmusti"
+    },
+    {
+        "name":"Аким",
+        "tags":[
+            "Python"
+        ],
+        "twitch":"akimrx"
     }
 ]
