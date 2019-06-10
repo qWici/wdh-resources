@@ -94,5 +94,29 @@
     "language": "en",
     "image_url": "https://media.simplecast.com/podcast/image/6265/1534231292-artwork.jpg",
     "feed_url": "https://rss.simplecast.com/podcasts/6265/rss"
+  },
+  {
+    "title": "Веб-стандарты",
+    "description": "Новости фронтенда за неделю: Ольга Алексашенко, Вадим Макеев, Мария Просвирнина, Алексей Симоненко",
+    "site_url": "https://soundcloud.com/web-standards",
+    "language": "ru",
+    "image_url": "https://i1.sndcdn.com/avatars-000202051699-d6qlyg-t500x500.jpg",
+    "feed_url": "http://feeds.soundcloud.com/users/soundcloud:users:202737209/sounds.rss"
+  },
+  {
+    "title": "Пятиминутка React",
+    "description": "Подкаст о React и смежных технологиях в мире JavaScript",
+    "site_url": "https://5minreact.ru",
+    "language": "ru",
+    "image_url": "https://5minreact.ru/static/5minreact_logo_1400_white.d9d89ecc.png",
+    "feed_url": "http://feeds.soundcloud.com/users/soundcloud:users:301264956/sounds.rss"
+  },
+  {
+    "title": "Фронтенд Юность (18+)",
+    "description": "Вся правда о фронтенд-разработке. Всё, о чём боятся говорить — вы услышите здесь! Смузи, вейп, ES6, REACT — вас накроет волной хайпа",
+    "site_url": "https://youknow.st",
+    "language": "ru",
+    "image_url": "https://youknow.st/static/logo-16bf6b9b40e556f92ecfafbb5067d08c.svg",
+    "feed_url": "http://feeds.soundcloud.com/users/soundcloud:users:306631331/sounds.rss"
   }
 ]
