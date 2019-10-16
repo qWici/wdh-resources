@@ -535,5 +535,19 @@
             "Python"
         ],
         "twitch":"akimrx"
+    },
+    {
+        "name":"Jacklifear",
+        "tags":[
+            "JavaScript"
+        ],
+        "twitch":"jacklifear"
+    },
+    {
+        "name":"codinggarden",
+        "tags":[
+            "JavaScript"
+        ],
+        "twitch":"codinggarden"
     }
 ]
