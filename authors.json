@@ -3,7 +3,7 @@
     "name": "A List Apart",
     "site_url": "https://alistapart.com",
     "language": "en",
-    "logo": "https://github.com/qWici/wdh-resources/blob/master/a-list-apart.png",
+    "logo": "https://github.com/qWici/wdh-resources/blob/master/images/logos/authors/a-list-apart.png",
     "about": "A List Apart explores the design, development, and meaning of web content, with a special focus on web standards and best practices.",
     "feed_url": "https://alistapart.com/main/feed/"
   },
@@ -11,7 +11,7 @@
     "name": "Bits and Piecest",
     "site_url": "https://blog.bitsrc.io",
     "language": "en",
-    "logo": "https://github.com/qWici/wdh-resources/blob/master/bits-and-piecest.png",
+    "logo": "https://github.com/qWici/wdh-resources/blob/master/images/logos/authors/bits-and-piecest.png",
     "about": "Coding In The Age Of Code Components",
     "feed_url": "https://blog.bitsrc.io/feed"
   },
@@ -19,7 +19,7 @@
     "name": "CSS-LIVE",
     "site_url": "http://css-live.ru",
     "language": "ru",
-    "logo": "https://github.com/qWici/wdh-resources/blob/master/css-live.png",
+    "logo": "https://github.com/qWici/wdh-resources/blob/master/images/logos/authors/css-live.png",
     "about": "Жизнь во фронтенде",
     "feed_url": "http://feeds.feedburner.com/css-live?fmt=xml"
   },
@@ -27,7 +27,7 @@
     "name": "DailyJS[Medium]",
     "site_url": "https://medium.com/dailyjs",
     "language": "en",
-    "logo": "https://github.com/qWici/wdh-resources/blob/master/dailyjsmedium.png",
+    "logo": "https://github.com/qWici/wdh-resources/blob/master/images/logos/authors/dailyjsmedium.png",
     "about": "JavaScript news and opinion.",
     "feed_url": "https://medium.com/feed/dailyjs"
   },
@@ -35,7 +35,7 @@
     "name": "FreeCodeCamp[Medium]",
     "site_url": "https://medium.freecodecamp.org",
     "language": "en",
-    "logo": "https://github.com/qWici/wdh-resources/blob/master/freecodecampmedium.png",
+    "logo": "https://github.com/qWici/wdh-resources/blob/master/images/logos/authors/freecodecampmedium.png",
     "about": "Stories worth reading about programming and technology from our open source community",
     "feed_url": "https://medium.freecodecamp.org/feed"
   },
@@ -43,7 +43,7 @@
     "name": "Javascript[Medium]",
     "site_url": "https://medium.com/topic/javascript",
     "language": "en",
-    "logo": "https://github.com/qWici/wdh-resources/blob/master/javascriptmedium.png",
+    "logo": "https://github.com/qWici/wdh-resources/blob/master/images/logos/authors/javascriptmedium.png",
     "about": "Javascript on Medium: An ode to code",
     "feed_url": "https://medium.com/feed/topic/javascript"
   },
@@ -51,7 +51,7 @@
     "name": "Scotch",
     "site_url": "https://scotch.io",
     "language": "en",
-    "logo": "https://github.com/qWici/wdh-resources/blob/master/scotch.png",
+    "logo": "https://github.com/qWici/wdh-resources/blob/master/images/logos/authors/scotch.png",
     "about": "Top Shelf Web Development Training Scotch",
     "feed_url": "http://scotch.io/feed"
   },
@@ -59,7 +59,7 @@
     "name": "Smashing Magazine",
     "site_url": "https://www.smashingmagazine.com",
     "language": "en",
-    "logo": "https://github.com/qWici/wdh-resources/blob/master/smashing-magazine.png",
+    "logo": "https://github.com/qWici/wdh-resources/blob/master/images/logos/authors/smashing-magazine.png",
     "about": "Smashing Magazine — For Web Designers And Developers",
     "feed_url": "https://www.smashingmagazine.com/feed"
   },
@@ -67,7 +67,7 @@
     "name": "Speckyboy Magazine",
     "site_url": "https://speckyboy.com",
     "language": "en",
-    "logo": "https://github.com/qWici/wdh-resources/blob/master/speckyboy-magazine.png",
+    "logo": "https://github.com/qWici/wdh-resources/blob/master/images/logos/authors/speckyboy-magazine.png",
     "about": "Web Design News, Resources & Inspiration",
     "feed_url": "https://speckyboy.com/feed"
   },
@@ -75,7 +75,7 @@
     "name": "Tutorialzine",
     "site_url": "https://tutorialzine.com",
     "language": "en",
-    "logo": "https://github.com/qWici/wdh-resources/blob/master/tutorialzine.png",
+    "logo": "https://github.com/qWici/wdh-resources/blob/master/images/logos/authors/tutorialzine.png",
     "about": "Web Development Tutorials & Resources",
     "feed_url": "https://tutorialzine.com/feed"
   },
@@ -83,7 +83,7 @@
     "name": "Vue.js Developers[Medium]",
     "site_url": "https://medium.com/js-dojo",
     "language": "en",
-    "logo": "https://github.com/qWici/wdh-resources/blob/master/vuejs-developersmedium.png",
+    "logo": "https://github.com/qWici/wdh-resources/blob/master/images/logos/authors/vuejs-developersmedium.png",
     "about": "Vue.js Developers' mission is to up your skill and knowledge of Vue.js and related tools, beyond what's in the official documentation",
     "feed_url": "https://medium.com/feed/js-dojo"
   },
@@ -91,7 +91,7 @@
     "name": "Разработка веб-сайтов[Хабрахабр]",
     "site_url": "https://habr.com/hub/webdev/all",
     "language": "ru",
-    "logo": "https://github.com/qWici/wdh-resources/blob/master/razrabotka-veb-saytovkhabrakhabr.png",
+    "logo": "https://github.com/qWici/wdh-resources/blob/master/images/logos/authors/razrabotka-veb-saytovkhabrakhabr.png",
     "about": "Хабр / Разработка веб-сайтов – делаем веб лучше",
     "feed_url": "https://habr.com/rss/hub/webdev"
   }

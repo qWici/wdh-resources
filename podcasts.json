@@ -4,7 +4,7 @@
     "description": "All about Angular",
     "site_url": "https://angularair.com",
     "language": "en",
-    "image_url": "https://github.com/qWici/wdh-resources/blob/master/angularair.png",
+    "image_url": "https://github.com/qWici/wdh-resources/blob/master/images/logos/shows/angularair.png",
     "feed_url": "https://feed.podbean.com/angularair/feed.xml"
   },
   {
@@ -12,7 +12,7 @@
     "description": "Самые честные интервью с известными людьми из мира web-разработки. Впечатляющие истории успеха, забавные моменты из жизни и полезные советы – мы показываем человеческое лицо frontend’а и не только.",
     "site_url": "http://frontendweekend.ml",
     "language": "ru",
-    "image_url": "https://github.com/qWici/wdh-resources/blob/master/frontend-weekend.webp",
+    "image_url": "https://github.com/qWici/wdh-resources/blob/master/images/logos/shows/frontend-weekend.webp",
     "feed_url": "http://feeds.soundcloud.com/users/soundcloud:users:306455261/sounds.rss"
   },
   {
@@ -20,7 +20,7 @@
     "description": "The live broadcast podcast all about JavaScript. The episodes run over Hangouts on Air live and get uploaded to YouTube and an audio podcast afterward. Topics include all things around JavaScript and Web Development",
     "site_url": "https://javascriptair.com",
     "language": "en",
-    "image_url": "https://github.com/qWici/wdh-resources/blob/master/javascript-air.png",
+    "image_url": "https://github.com/qWici/wdh-resources/blob/master/images/logos/shows/javascript-air.png",
     "feed_url": "https://feed.podbean.com/audio.javascriptair.com/feed.xml"
   },
   {
@@ -28,7 +28,7 @@
     "description": "A weekly podcast discussing the superb language JavaScript",
     "site_url": "https://devchat.tv/js-jabber",
     "language": "en",
-    "image_url": "https://github.com/qWici/wdh-resources/blob/master/javascript-jabber.webp",
+    "image_url": "https://github.com/qWici/wdh-resources/blob/master/images/logos/shows/javascript-jabber.webp",
     "feed_url": "https://feeds.feedwrench.com/JavaScriptJabber.rss"
   },
   {
@@ -36,7 +36,7 @@
     "description": "A podcast about JavaScript, stories from people who shape the world of JavaScript, hosted by the creators and organisers of ScriptConf",
     "site_url": "https://scriptconf.org",
     "language": "en",
-    "image_url": "https://github.com/qWici/wdh-resources/blob/master/scriptcast.webp",
+    "image_url": "https://github.com/qWici/wdh-resources/blob/master/images/logos/shows/scriptcast.webp",
     "feed_url": "http://feeds.soundcloud.com/users/soundcloud:users:306408165/sounds.rss"
   },
   {
@@ -44,7 +44,7 @@
     "description": "Full Stack Developers Wes Bos and Scott Tolinski dive deep into web development topics, explaining how they work and talking about their own experiences. They cover from JavaScript frameworks like React, to the latest advancements in CSS to simplifying web tooling.",
     "site_url": "https://syntax.fm",
     "language": "en",
-    "image_url": "https://github.com/qWici/wdh-resources/blob/master/syntax-tasty-web-development-treats.webp",
+    "image_url": "https://github.com/qWici/wdh-resources/blob/master/images/logos/shows/syntax-tasty-web-development-treats.webp",
     "feed_url": "https://feed.syntax.fm/rss"
   },
   {
@@ -52,7 +52,7 @@
     "description": "The award winning Big Web Show features special guests and topics like web publishing, art direction, content strategy, typography, web technology, and more. It's everything web that matters. Hosted by Jeffrey Zeldman.",
     "site_url": "http://5by5.tv/bigwebshow",
     "language": "en",
-    "image_url": "https://github.com/qWici/wdh-resources/blob/master/the-big-web-show.webp",
+    "image_url": "https://github.com/qWici/wdh-resources/blob/master/images/logos/shows/the-big-web-show.webp",
     "feed_url": "http://feeds.5by5.tv/bigwebshow"
   },
   {
@@ -60,7 +60,7 @@
     "description": "Boagworld is a podcast about digital strategy, service design and user experience. It offers practical advice, news, tools, review and interviews with leading figures in the web design community. Covering everything from usability and design to marketing and strategy, this show has something for everything. This award-winning podcast is the longest running web design podcast with over 380 episodes.",
     "site_url": "http://boagworld.com/show",
     "language": "en",
-    "image_url": "https://github.com/qWici/wdh-resources/blob/master/the-boagworld-ux-show.webp",
+    "image_url": "https://github.com/qWici/wdh-resources/blob/master/images/logos/shows/the-boagworld-ux-show.webp",
     "feed_url": "http://feeds.feedburner.com/boagworldpodcast?fmt=xml"
   },
   {
@@ -68,7 +68,7 @@
     "description": "Conversations with the hackers, leaders, and innovators of software development. Hosts Adam Stacoviak and Jerod Santo face their imposter syndrome so you don’t have to. We do in-depth interviews with the best and brightest software engineers, hackers, leaders, and innovators. This is a polyglot podcast. All programming languages, platforms, and communities are welcome. Open source moves fast. Keep up.",
     "site_url": "https://changelog.com/podcast",
     "language": "en",
-    "image_url": "https://github.com/qWici/wdh-resources/blob/master/the-changelog.webp",
+    "image_url": "https://github.com/qWici/wdh-resources/blob/master/images/logos/shows/the-changelog.webp",
     "feed_url": "http://changelog.com/podcast/feed"
   },
   {
@@ -76,7 +76,7 @@
     "description": "The Laracasts snippet, each episode, offers a single thought on some aspect of web development. Nothing more, nothing less. Hosted by Jeffrey Way.",
     "site_url": "http://laracasts.audio",
     "language": "en",
-    "image_url": "https://github.com/qWici/wdh-resources/blob/master/the-laracasts-snippet.webp",
+    "image_url": "https://github.com/qWici/wdh-resources/blob/master/images/logos/shows/the-laracasts-snippet.webp",
     "feed_url": "https://rss.simplecast.com/podcasts/1486/rss"
   },
   {
@@ -84,7 +84,7 @@
     "description": "Interviews and news about React hosted by Michael Jackson",
     "site_url": "https://reactpodcast.simplecast.fm",
     "language": "en",
-    "image_url": "https://github.com/qWici/wdh-resources/blob/master/the-react-podcast.png",
+    "image_url": "https://github.com/qWici/wdh-resources/blob/master/images/logos/shows/the-react-podcast.png",
     "feed_url": "https://rss.simplecast.com/podcasts/6265/rss"
   },
   {
@@ -92,7 +92,7 @@
     "description": "Новости фронтенда за неделю: Ольга Алексашенко, Вадим Макеев, Мария Просвирнина, Алексей Симоненко",
     "site_url": "https://soundcloud.com/web-standards",
     "language": "ru",
-    "image_url": "https://github.com/qWici/wdh-resources/blob/master/veb-standarty.png",
+    "image_url": "https://github.com/qWici/wdh-resources/blob/master/images/logos/shows/veb-standarty.png",
     "feed_url": "http://feeds.soundcloud.com/users/soundcloud:users:202737209/sounds.rss"
   },
   {
@@ -100,7 +100,7 @@
     "description": "Подкаст сообщества devschacht о веб-разработке, с уклоном во фронтенд.",
     "site_url": "https://medium.com/devschacht",
     "language": "ru",
-    "image_url": "https://github.com/qWici/wdh-resources/blob/master/devshakhta.webp",
+    "image_url": "https://github.com/qWici/wdh-resources/blob/master/images/logos/shows/devshakhta.webp",
     "feed_url": "https://feeds.soundcloud.com/users/soundcloud:users:299701886/sounds.rss"
   },
   {
@@ -108,7 +108,7 @@
     "description": "Подкаст о React и смежных технологиях в мире JavaScript",
     "site_url": "https://5minreact.ru",
     "language": "ru",
-    "image_url": "https://github.com/qWici/wdh-resources/blob/master/pyatiminutka-react.png",
+    "image_url": "https://github.com/qWici/wdh-resources/blob/master/images/logos/shows/pyatiminutka-react.png",
     "feed_url": "http://feeds.soundcloud.com/users/soundcloud:users:301264956/sounds.rss"
   },
   {
@@ -116,7 +116,7 @@
     "description": "Вся правда о фронтенд-разработке. Всё, о чём боятся говорить — вы услышите здесь! Смузи, вейп, ES6, REACT — вас накроет волной хайпа",
     "site_url": "https://youknow.st",
     "language": "ru",
-    "image_url": "https://github.com/qWici/wdh-resources/blob/master/frontend-yunost-18.png",
+    "image_url": "https://github.com/qWici/wdh-resources/blob/master/images/logos/shows/frontend-yunost-18.png",
     "feed_url": "http://feeds.soundcloud.com/users/soundcloud:users:306631331/sounds.rss"
   }
 ]
