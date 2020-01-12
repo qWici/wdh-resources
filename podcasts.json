@@ -12,7 +12,7 @@
     "description": "Самые честные интервью с известными людьми из мира web-разработки. Впечатляющие истории успеха, забавные моменты из жизни и полезные советы – мы показываем человеческое лицо frontend’а и не только.",
     "site_url": "http://frontendweekend.ml",
     "language": "ru",
-    "image_url": "https://raw.githubusercontent.com/qWici/wdh-resources/master/images/logos/shows/frontend-weekend.webp",
+    "image_url": "https://raw.githubusercontent.com/qWici/wdh-resources/master/images/logos/shows/frontend-weekend.jpg",
     "feed_url": "http://feeds.soundcloud.com/users/soundcloud:users:306455261/sounds.rss"
   },
   {
@@ -28,7 +28,7 @@
     "description": "A weekly podcast discussing the superb language JavaScript",
     "site_url": "https://devchat.tv/js-jabber",
     "language": "en",
-    "image_url": "https://raw.githubusercontent.com/qWici/wdh-resources/master/images/logos/shows/javascript-jabber.webp",
+    "image_url": "https://raw.githubusercontent.com/qWici/wdh-resources/master/images/logos/shows/javascript-jabber.jpg",
     "feed_url": "https://feeds.feedwrench.com/JavaScriptJabber.rss"
   },
   {
@@ -36,7 +36,7 @@
     "description": "A podcast about JavaScript, stories from people who shape the world of JavaScript, hosted by the creators and organisers of ScriptConf",
     "site_url": "https://scriptconf.org",
     "language": "en",
-    "image_url": "https://raw.githubusercontent.com/qWici/wdh-resources/master/images/logos/shows/scriptcast.webp",
+    "image_url": "https://raw.githubusercontent.com/qWici/wdh-resources/master/images/logos/shows/scriptcast.jpg",
     "feed_url": "http://feeds.soundcloud.com/users/soundcloud:users:306408165/sounds.rss"
   },
   {
@@ -44,7 +44,7 @@
     "description": "Full Stack Developers Wes Bos and Scott Tolinski dive deep into web development topics, explaining how they work and talking about their own experiences. They cover from JavaScript frameworks like React, to the latest advancements in CSS to simplifying web tooling.",
     "site_url": "https://syntax.fm",
     "language": "en",
-    "image_url": "https://raw.githubusercontent.com/qWici/wdh-resources/master/images/logos/shows/syntax-tasty-web-development-treats.webp",
+    "image_url": "https://raw.githubusercontent.com/qWici/wdh-resources/master/images/logos/shows/syntax-tasty-web-development-treats.jpg",
     "feed_url": "https://feed.syntax.fm/rss"
   },
   {
@@ -52,7 +52,7 @@
     "description": "The award winning Big Web Show features special guests and topics like web publishing, art direction, content strategy, typography, web technology, and more. It's everything web that matters. Hosted by Jeffrey Zeldman.",
     "site_url": "http://5by5.tv/bigwebshow",
     "language": "en",
-    "image_url": "https://raw.githubusercontent.com/qWici/wdh-resources/master/images/logos/shows/the-big-web-show.webp",
+    "image_url": "https://raw.githubusercontent.com/qWici/wdh-resources/master/images/logos/shows/the-big-web-show.jpg",
     "feed_url": "http://feeds.5by5.tv/bigwebshow"
   },
   {
@@ -60,7 +60,7 @@
     "description": "Boagworld is a podcast about digital strategy, service design and user experience. It offers practical advice, news, tools, review and interviews with leading figures in the web design community. Covering everything from usability and design to marketing and strategy, this show has something for everything. This award-winning podcast is the longest running web design podcast with over 380 episodes.",
     "site_url": "http://boagworld.com/show",
     "language": "en",
-    "image_url": "https://raw.githubusercontent.com/qWici/wdh-resources/master/images/logos/shows/the-boagworld-ux-show.webp",
+    "image_url": "https://raw.githubusercontent.com/qWici/wdh-resources/master/images/logos/shows/the-boagworld-ux-show.jpg",
     "feed_url": "http://feeds.feedburner.com/boagworldpodcast?fmt=xml"
   },
   {
@@ -68,7 +68,7 @@
     "description": "Conversations with the hackers, leaders, and innovators of software development. Hosts Adam Stacoviak and Jerod Santo face their imposter syndrome so you don’t have to. We do in-depth interviews with the best and brightest software engineers, hackers, leaders, and innovators. This is a polyglot podcast. All programming languages, platforms, and communities are welcome. Open source moves fast. Keep up.",
     "site_url": "https://changelog.com/podcast",
     "language": "en",
-    "image_url": "https://raw.githubusercontent.com/qWici/wdh-resources/master/images/logos/shows/the-changelog.webp",
+    "image_url": "https://raw.githubusercontent.com/qWici/wdh-resources/master/images/logos/shows/the-changelog.jpg",
     "feed_url": "http://changelog.com/podcast/feed"
   },
   {
@@ -76,7 +76,7 @@
     "description": "The Laracasts snippet, each episode, offers a single thought on some aspect of web development. Nothing more, nothing less. Hosted by Jeffrey Way.",
     "site_url": "http://laracasts.audio",
     "language": "en",
-    "image_url": "https://raw.githubusercontent.com/qWici/wdh-resources/master/images/logos/shows/the-laracasts-snippet.webp",
+    "image_url": "https://raw.githubusercontent.com/qWici/wdh-resources/master/images/logos/shows/the-laracasts-snippet.jpg",
     "feed_url": "https://rss.simplecast.com/podcasts/1486/rss"
   },
   {
@@ -100,7 +100,7 @@
     "description": "Подкаст сообщества devschacht о веб-разработке, с уклоном во фронтенд.",
     "site_url": "https://medium.com/devschacht",
     "language": "ru",
-    "image_url": "https://raw.githubusercontent.com/qWici/wdh-resources/master/images/logos/shows/devshakhta.webp",
+    "image_url": "https://raw.githubusercontent.com/qWici/wdh-resources/master/images/logos/shows/devshakhta.jpg",
     "feed_url": "https://feeds.soundcloud.com/users/soundcloud:users:299701886/sounds.rss"
   },
   {
