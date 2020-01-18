@@ -56,6 +56,14 @@
     "feed_url": "http://scotch.io/feed"
   },
   {
+    "name": "Netflix TechBlog",
+    "site_url": "https://netflixtechblog.com",
+    "language": "en",
+    "logo": "https://raw.githubusercontent.com/qWici/wdh-resources/master/images/logos/authors/netflix.png",
+    "about": "Learn more about how Netflix designs, builds, and operates our systems and engineering organizations",
+    "feed_url": "https://netflixtechblog.com/feed"
+  },
+  {
     "name": "Smashing Magazine",
     "site_url": "https://www.smashingmagazine.com",
     "language": "en",
