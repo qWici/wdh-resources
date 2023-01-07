@@ -4,8 +4,8 @@ on:
     branches:
       - master
 jobs:
-  up:
-    name: Update
+  authors:
+    name: Check authors
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -20,12 +20,75 @@ jobs:
         with:
           files: |
             authors.json
-      - name: Run step if any file(s) in the docs folder change
+      - name: Sync authors
         if: steps.authors-changed.outputs.any_changed == 'true'
         run: |
           chmod +x ./sync.sh
           ./sync.sh authors
         shell: bash
-#      - name: Build & Deploy
-#        run: |
-#          chmod +x "${GITHUB_WORKSPACE}/sync.sh" "${GITHUB_WORKSPACE}/sync.sh"
+  channels:
+    name: Check channels
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: Get changed files
+        id: changed-files
+        uses: tj-actions/changed-files@v35
+      - name: Check if channels file changed
+        id: channels-changed
+        uses: tj-actions/changed-files@v35
+        with:
+          files: |
+            channels.json
+      - name: Sync channels
+        if: steps.channels-changed.outputs.any_changed == 'true'
+        run: |
+          chmod +x ./sync.sh
+          ./sync.sh channels
+        shell: bash
+  podcasts:
+    name: Check podcasts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: Get changed files
+        id: changed-files
+        uses: tj-actions/changed-files@v35
+      - name: Check if podcasts file changed
+        id: podcasts-changed
+        uses: tj-actions/changed-files@v35
+        with:
+          files: |
+            podcasts.json
+      - name: Sync podcasts
+        if: steps.podcasts-changed.outputs.any_changed == 'true'
+        run: |
+          chmod +x ./sync.sh
+          ./sync.sh podcasts
+        shell: bash
+  streamers:
+    name: Check streamers
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: Get changed files
+        id: changed-files
+        uses: tj-actions/changed-files@v35
+      - name: Check if streamers file changed
+        id: streamers-changed
+        uses: tj-actions/changed-files@v35
+        with:
+          files: |
+            streamers.json
+      - name: Sync streamers
+        if: steps.streamers-changed.outputs.any_changed == 'true'
+        run: |
+          chmod +x ./sync.sh
+          ./sync.sh streamers
+        shell: bash
