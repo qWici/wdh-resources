@@ -21,6 +21,8 @@ jobs:
           files: |
             authors.json
       - name: Sync authors
+        env:
+          API_HOST: ${{ secrets.API_HOST }}
         if: steps.authors-changed.outputs.any_changed == 'true'
         run: |
           chmod +x ./sync.sh
