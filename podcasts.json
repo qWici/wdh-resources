@@ -8,14 +8,6 @@
     "feed_url": "https://feed.podbean.com/angularair/feed.xml"
   },
   {
-    "title": "Frontend Weekend",
-    "description": "Самые честные интервью с известными людьми из мира web-разработки. Впечатляющие истории успеха, забавные моменты из жизни и полезные советы – мы показываем человеческое лицо frontend’а и не только.",
-    "site_url": "http://frontendweekend.ml",
-    "language": "ru",
-    "image_url": "https://raw.githubusercontent.com/qWici/wdh-resources/master/images/logos/shows/frontend-weekend.jpg",
-    "feed_url": "http://feeds.soundcloud.com/users/soundcloud:users:306455261/sounds.rss"
-  },
-  {
     "title": "JavaScript Air",
     "description": "The live broadcast podcast all about JavaScript. The episodes run over Hangouts on Air live and get uploaded to YouTube and an audio podcast afterward. Topics include all things around JavaScript and Web Development",
     "site_url": "https://javascriptair.com",
@@ -86,37 +78,5 @@
     "language": "en",
     "image_url": "https://raw.githubusercontent.com/qWici/wdh-resources/master/images/logos/shows/the-react-podcast.png",
     "feed_url": "https://rss.simplecast.com/podcasts/6265/rss"
-  },
-  {
-    "title": "Веб-стандарты",
-    "description": "Новости фронтенда за неделю: Ольга Алексашенко, Вадим Макеев, Мария Просвирнина, Алексей Симоненко",
-    "site_url": "https://soundcloud.com/web-standards",
-    "language": "ru",
-    "image_url": "https://raw.githubusercontent.com/qWici/wdh-resources/master/images/logos/shows/veb-standarty.png",
-    "feed_url": "http://feeds.soundcloud.com/users/soundcloud:users:202737209/sounds.rss"
-  },
-  {
-    "title": "ДевШахта",
-    "description": "Подкаст сообщества devschacht о веб-разработке, с уклоном во фронтенд.",
-    "site_url": "https://medium.com/devschacht",
-    "language": "ru",
-    "image_url": "https://raw.githubusercontent.com/qWici/wdh-resources/master/images/logos/shows/devshakhta.jpg",
-    "feed_url": "https://feeds.soundcloud.com/users/soundcloud:users:299701886/sounds.rss"
-  },
-  {
-    "title": "Пятиминутка React",
-    "description": "Подкаст о React и смежных технологиях в мире JavaScript",
-    "site_url": "https://5minreact.ru",
-    "language": "ru",
-    "image_url": "https://raw.githubusercontent.com/qWici/wdh-resources/master/images/logos/shows/pyatiminutka-react.png",
-    "feed_url": "http://feeds.soundcloud.com/users/soundcloud:users:301264956/sounds.rss"
-  },
-  {
-    "title": "Фронтенд Юность (18+)",
-    "description": "Вся правда о фронтенд-разработке. Всё, о чём боятся говорить — вы услышите здесь! Смузи, вейп, ES6, REACT — вас накроет волной хайпа",
-    "site_url": "https://youknow.st",
-    "language": "ru",
-    "image_url": "https://raw.githubusercontent.com/qWici/wdh-resources/master/images/logos/shows/frontend-yunost-18.png",
-    "feed_url": "http://feeds.soundcloud.com/users/soundcloud:users:306631331/sounds.rss"
   }
 ]
