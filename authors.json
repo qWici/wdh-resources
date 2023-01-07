@@ -16,14 +16,6 @@
     "feed_url": "https://blog.bitsrc.io/feed"
   },
   {
-    "name": "CSS-LIVE",
-    "site_url": "http://css-live.ru",
-    "language": "ru",
-    "logo": "https://raw.githubusercontent.com/qWici/wdh-resources/master/images/logos/authors/css-live.png",
-    "about": "Жизнь во фронтенде",
-    "feed_url": "http://feeds.feedburner.com/css-live?fmt=xml"
-  },
-  {
     "name": "DailyJS[Medium]",
     "site_url": "https://medium.com/dailyjs",
     "language": "en",
@@ -94,13 +86,5 @@
     "logo": "https://raw.githubusercontent.com/qWici/wdh-resources/master/images/logos/authors/vuejs-developersmedium.png",
     "about": "Vue.js Developers' mission is to up your skill and knowledge of Vue.js and related tools, beyond what's in the official documentation",
     "feed_url": "https://medium.com/feed/js-dojo"
-  },
-  {
-    "name": "Разработка веб-сайтов[Хабрахабр]",
-    "site_url": "https://habr.com/hub/webdev/all",
-    "language": "ru",
-    "logo": "https://raw.githubusercontent.com/qWici/wdh-resources/master/images/logos/authors/razrabotka-veb-saytovkhabrakhabr.png",
-    "about": "Хабр / Разработка веб-сайтов – делаем веб лучше",
-    "feed_url": "https://habr.com/rss/hub/webdev"
   }
 ]
