@@ -45,6 +45,8 @@ jobs:
           files: |
             channels.json
       - name: Sync channels
+        env:
+          API_HOST: ${{ secrets.API_HOST }}
         if: steps.channels-changed.outputs.any_changed == 'true'
         run: |
           chmod +x ./sync.sh
@@ -67,6 +69,8 @@ jobs:
           files: |
             podcasts.json
       - name: Sync podcasts
+        env:
+          API_HOST: ${{ secrets.API_HOST }}
         if: steps.podcasts-changed.outputs.any_changed == 'true'
         run: |
           chmod +x ./sync.sh
@@ -89,6 +93,8 @@ jobs:
           files: |
             streamers.json
       - name: Sync streamers
+        env:
+          API_HOST: ${{ secrets.API_HOST }}
         if: steps.streamers-changed.outputs.any_changed == 'true'
         run: |
           chmod +x ./sync.sh
