@@ -322,12 +322,9 @@
         "twitch":"mimmingcodes"
     },
     {
-        "name":"Vania Kucher",
+        "name":"Ivan Kucher",
         "tags":[
-            "Laravel",
-            "JavaScript",
-            "Vue.js",
-            "PHP"
+            "Typescript"
         ],
         "twitch":"devkucher"
     },
@@ -457,15 +454,6 @@
         "twitch":"genso_0"
     },
     {
-        "name":"Sygeman",
-        "tags":[
-            "HTML",
-            "Typescript",
-            "JavaScript"
-        ],
-        "twitch":"sygeman"
-    },
-    {
         "name":"Mibazarow",
         "tags":[
             "HTML",
@@ -528,13 +516,6 @@
             "Django"
         ],
         "twitch":"justinmusti"
-    },
-    {
-        "name":"Аким",
-        "tags":[
-            "Python"
-        ],
-        "twitch":"akimrx"
     },
     {
         "name":"Jacklifear",
