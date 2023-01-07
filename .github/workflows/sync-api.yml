@@ -23,8 +23,8 @@ jobs:
       - name: Run step if any file(s) in the docs folder change
         if: steps.authors-changed.outputs.any_changed == 'true'
         run: |
-          chmod +x "${GITHUB_WORKSPACE}/sync.sh"
-          "${GITHUB_WORKSPACE}/sync.sh authors"
+          chmod +x "${GITHUB_WORKSPACE}/../sync.sh"
+          "${GITHUB_WORKSPACE}/../sync.sh authors"
 #      - name: Build & Deploy
 #        run: |
 #          chmod +x "${GITHUB_WORKSPACE}/sync.sh" "${GITHUB_WORKSPACE}/sync.sh"
