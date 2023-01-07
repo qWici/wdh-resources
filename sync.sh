@@ -4,7 +4,7 @@ case "$1" in
 "authors") echo "update authors";;
 "channels") echo "update channels";;
 "podcasts") echo "update podcasts"
-exit 123;;
+            exit 125;;
 "streamers") echo "update streamers";;
 esac
 
