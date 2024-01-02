@@ -13,10 +13,10 @@ jobs:
           fetch-depth: 0
       - name: Get changed files
         id: changed-files
-        uses: tj-actions/changed-files@v35
+        uses: tj-actions/changed-files@v41
       - name: Check if authors file changed
         id: authors-changed
-        uses: tj-actions/changed-files@v35
+        uses: tj-actions/changed-files@v41
         with:
           files: |
             authors.json
@@ -37,10 +37,10 @@ jobs:
           fetch-depth: 0
       - name: Get changed files
         id: changed-files
-        uses: tj-actions/changed-files@v35
+        uses: tj-actions/changed-files@v41
       - name: Check if channels file changed
         id: channels-changed
-        uses: tj-actions/changed-files@v35
+        uses: tj-actions/changed-files@v41
         with:
           files: |
             channels.json
@@ -61,10 +61,10 @@ jobs:
           fetch-depth: 0
       - name: Get changed files
         id: changed-files
-        uses: tj-actions/changed-files@v35
+        uses: tj-actions/changed-files@v41
       - name: Check if podcasts file changed
         id: podcasts-changed
-        uses: tj-actions/changed-files@v35
+        uses: tj-actions/changed-files@v41
         with:
           files: |
             podcasts.json
@@ -85,10 +85,10 @@ jobs:
           fetch-depth: 0
       - name: Get changed files
         id: changed-files
-        uses: tj-actions/changed-files@v35
+        uses: tj-actions/changed-files@v41
       - name: Check if streamers file changed
         id: streamers-changed
-        uses: tj-actions/changed-files@v35
+        uses: tj-actions/changed-files@v41
         with:
           files: |
             streamers.json
